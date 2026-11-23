@@ -19,7 +19,6 @@ h1 span { color:var(--blue); font-size:.55em; letter-spacing:-.035em; }
 .hero-actions { display:flex; gap:14px; margin-top:28px; }
 .button { display:inline-block; padding:10px 18px; border:1px solid var(--blue); font-size:.9rem; }
 .button-primary { background:var(--blue); color:#fff; }
-.button-secondary { color:var(--blue); }
 .section { padding:100px 0; border-bottom:1px solid var(--line); }
 .section-heading { display:grid; grid-template-columns:70px 1fr; gap:18px; align-items:start; margin-bottom:46px; }
 .section-number { margin:7px 0 0; }

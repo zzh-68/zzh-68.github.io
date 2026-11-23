@@ -3,7 +3,7 @@ const translations = {
     navAbout: 'About', navProjects: 'Projects', navExperience: 'Experience', navContact: 'Contact',
     eyebrow: 'Data Science Undergraduate',
     heroSummary: 'Interested in data engineering, business data analysis, and applied AI. I enjoy turning complex data into reliable and explainable results.',
-    viewProjects: 'View projects', downloadCv: 'Download CV',
+    viewProjects: 'View projects',
     aboutTitle: 'About', projectsTitle: 'Selected Projects', experienceTitle: 'Experience', skillsTitle: 'Skills', contactLabel: 'Contact',
     aboutTextZh: 'I am a Data Science and Big Data Technology undergraduate at Xi’an Jiaotong-Liverpool University. I have received an academic excellence award in the top 5% of my cohort. My practical experience covers enterprise data, government data, and large-scale business data, with a focus on data cleaning, data modelling, data quality, and applied AI.',
     aboutTextEn: 'I am a Data Science and Big Data Technology undergraduate at Xi’an Jiaotong-Liverpool University. My experience covers enterprise data, government data, and large-scale business data, with a focus on data cleaning, data modelling, data quality, and applied AI.',
